@@ -3,6 +3,6 @@
 <title>Products available only in the physical stores</title>
 </head>
 <body>
-    <h1>Find your best fit</h1>
+    <h1>Find your best fit <span>20% OFF</span></h1>
 </body>
 </html>
