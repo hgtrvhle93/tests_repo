@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>Product</title>
+</head>
+<body>
+    <h1>Customize your product</h1>
+</body>
+</html>
