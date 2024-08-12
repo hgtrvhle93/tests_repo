@@ -1,9 +1,9 @@
 <html>
 <head>
-<title>Products</title>
+<title>Products available only in the physical stores</title>
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    
+    <h1>Find your best fit <span>20% OFF</span></h1>
 </body>
 </html>
