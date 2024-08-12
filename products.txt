@@ -1,8 +1,8 @@
 <html>
 <head>
-<title>Products</title>
+<title>Products available only in the physical stores</title>
 </head>
 <body>
-    
+    <h1>Find your best fit</h1>
 </body>
 </html>
