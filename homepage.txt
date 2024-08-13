@@ -8,6 +8,7 @@
 
 <section>This is different</section> 
 <h1>Some heading</h1>
-<h2>Some heading</h2> 
+<h2>Some heading</h2>
+<h3>Some heading</h3>
 </body>
 </html>
