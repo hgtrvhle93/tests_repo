@@ -7,6 +7,6 @@
 
 
 <section>This is different</section> 
-<h1>Some heading</h1>
+<h1>Some heading</h1> 
 </body>
 </html>
