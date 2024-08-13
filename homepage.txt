@@ -3,8 +3,6 @@
 <title>Homepage</title>
 </head>
 <body>
-    <section>
-    </section>
-    <h1>welcome to homepage</h1>
 </body>
 </html>
+<h1>welcome to homepage</h1>
